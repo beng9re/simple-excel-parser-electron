@@ -28,7 +28,7 @@
   "devDependencies": {
     "asar": "^1.0.0",
     "electron": "^4.1.1",
-    "electron-builder": "^20.39.0",
+    "electron-builder": "^24.6.4",
     "dotjs": "^0.1.0"
   },
   "build": {

@@ -23,7 +23,7 @@
     "file-saver": "^2.0.1",
     "install": "^0.12.2",
     "multer": "^1.4.1",
-    "xlsx": "^0.14.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "asar": "^1.0.0",
